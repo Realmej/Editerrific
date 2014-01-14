@@ -1,4 +1,4 @@
 Editerrific
 ===========
 
-A simple editor   have fun
+A simple editor,   have fun
